@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1423777502 source:c:\users\tintin\desktop\v4\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Menu.h"
+
+1423494770 c:\users\tintin\desktop\v4\constantes.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325788834 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1423169040 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1423331856 source:c:\users\tintin\desktop\v4\src\menu.cpp
+	"menu.h"
+
+1423331856 c:\users\tintin\desktop\v4\include\menu.h
+
+1423777054 c:\users\tintin\desktop\v4\menu.h
+	<SDL/SDL.h>
+	"Map.h"
+
+1423774696 c:\users\tintin\desktop\v4\map.h
+	<vector>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
+1423778627 source:c:\users\tintin\desktop\v4\map.cpp
+	"Map.h"
+	"Bonus.h"
+	"Bomby.h"
+	"Bomb.h"
+	"Fire.h"
+	"Case.h"
+	"Functions.h"
+	<time.h>
+
+1423438032 c:\users\tintin\desktop\v4\constantes.cpp
+
+1423521226 source:c:\users\tintin\desktop\v4\motor.cpp
+	"Motor.h"
+
+1423611289 c:\users\tintin\desktop\v4\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"Time.h"
+	"constantes.h"
+
+1423421736 c:\users\tintin\desktop\v4\constantes2.cpp
+	"constantes.h"
+
+1423523526 source:c:\users\tintin\desktop\v4\constantes.cpp
+	"constantes.h"
+
+1423515868 source:c:\users\tintin\desktop\v4\bombi.cpp
+	"Bombi.h"
+
+1423580436 c:\users\tintin\desktop\v4\bombi.h
+	<stdio.h>
+	"Vector_bomb.h"
+
+1423773989 c:\users\tintin\desktop\v4\case.h
+	<SDL/SDL_video.h>
+	"CaseType.h"
+
+1423581029 c:\users\tintin\desktop\v4\time.h
+	<stdio.h>
+	"constantes.h"
+
+1423777502 source:c:\users\tintin\desktop\v4\menu.cpp
+	"menu.h"
+	"Functions.h"
+
+1423773989 c:\users\tintin\desktop\v4\bonus.h
+	"BonusType.h"
+
+1423582217 c:\users\tintin\desktop\v4\vector_bomb.h
+	"Bomb.h"
+
+1423773989 c:\users\tintin\desktop\v4\bomb.h
+
+1423773989 source:c:\users\tintin\desktop\v4\bomb.cpp
+	"Bomb.h"
+	"SDL/SDL_timer.h"
+	"Bomby.h"
+
+1423748248 source:c:\users\tintin\desktop\v4\case.cpp
+	"Case.h"
+	"Bonus.h"
+
+1423774571 source:c:\users\tintin\desktop\v4\bomby.cpp
+	"Bomby.h"
+	"Functions.h"
+	"SDL/SDL_timer.h"
+
+1423774263 c:\users\tintin\desktop\v4\bomby.h
+	"SDL/SDL_video.h"
+	"Direction.h"
+
+1423732662 source:c:\users\tintin\desktop\v4\functions.cpp
+	"Functions.h"
+
+1423773989 c:\users\tintin\desktop\v4\functions.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+
+1423773989 c:\users\tintin\desktop\v4\casetype.h
+
+1325738640 c:\users\tintin\desktop\v4\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\tintin\desktop\v4\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\users\tintin\desktop\v4\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\users\tintin\desktop\v4\sdl\sdl_platform.h
+
+1326110994 c:\users\tintin\desktop\v4\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\tintin\desktop\v4\sdl\begin_code.h
+
+1325738640 c:\users\tintin\desktop\v4\sdl\close_code.h
+
+1325738640 c:\users\tintin\desktop\v4\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\tintin\desktop\v4\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\tintin\desktop\v4\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325789340 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1423773989 source:c:\users\tintin\desktop\v4\fire.cpp
+	"Fire.h"
+	"SDL/SDL_timer.h"
+
+1423773989 c:\users\tintin\desktop\v4\fire.h
+
+1423773989 source:c:\users\tintin\desktop\v4\bonus.cpp
+	"Bonus.h"
+
+1423773989 c:\users\tintin\desktop\v4\bonustype.h
+
+1423773989 c:\users\tintin\desktop\v4\direction.h
+
